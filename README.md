@@ -49,9 +49,8 @@ Outputs: The script will output various insights and visualizations related to Y
 Files
 streamer_analysis.py: The main script that performs the analysis.
 README.md: This file, providing an overview of the project.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Author
-Nirmala Regmi - LinkedIn# InternCareerTask1
+Nirmala Regmi -InternCareerTask1
 # InternCareerTask1
